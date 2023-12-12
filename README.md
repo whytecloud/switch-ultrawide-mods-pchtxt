@@ -1,2 +1,3 @@
-# switch-ultrawide-mods-pchtxt
-Self Written ultrawide (21:9) Switch IPS pchtxt patches
+Pokemon™ Legends Arceus v1.1.1
+
+02994e2c 0870201E
