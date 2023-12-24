@@ -9,3 +9,7 @@ Pokemon Scarlet v1.3.2
 Pokemon Scarlet v3.0.0
 
 00CF11E8 1070201E
+
+Fire Emblem Warriors v1.5.0
+
+00B6E154 0170201E
